@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oseitu
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning AI of Critical Heat Flux
+- 🌱 I’m currently learning ML
 
 <!---
 oseitu/oseitu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
